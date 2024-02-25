@@ -1,0 +1,24 @@
+#p01-down{
+    margin-top: 56px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.countryBadge{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 18px;
+    gap: 8px;
+    min-width: 120px;
+    box-sizing: border-box;
+    border-radius: 999px;
+    background-color: #F5F5F5;
+}
+
+#terms{
+    text-align: center;
+    margin-top: 18px;
+}

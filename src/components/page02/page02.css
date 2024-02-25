@@ -1,0 +1,21 @@
+.info-box {
+    margin-top: 32px;
+}
+.info-box ul{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.list-item{
+    display: grid;
+    grid-template-columns: 10px 1fr;    
+}
+
+.blue-dot {
+    margin-top: 7px;
+    height: 6px;
+    width: 6px;
+    background-color: #222222;
+    border-radius: 999px;
+}
